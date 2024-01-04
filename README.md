@@ -1,8 +1,22 @@
-# Animotion
+# Tamabotchi
+A prototype of tamabotchi using Animotion. 
 
-This is an Animotion presentation.
+# Animotion
+Reference: https://animotion.pages.dev/docs/getting-started 
 
 ## Setup
+
+Install pnpm. 
+
+```sh
+npm install -g pnpm
+```
+
+Create presentation. 
+
+```sh
+npm create @animotion
+```
 
 Install dependencies.
 
@@ -16,8 +30,4 @@ Run the development server at http://localhost:5173/.
 pnpm run dev
 ```
 
-Build and preview deploy.
-
-```sh
-pnpm run build && pnpm run preview
-```
+Then open a browser and go to http://localhost:5173/ 
