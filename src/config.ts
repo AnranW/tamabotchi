@@ -24,13 +24,13 @@ const options: Reveal.Options = {
 		highlightOnLoad: false,
 	},
 	// slide controls
-	controls: true,
+	controls: false,
 	// slide progress bar
-	progress: true,
+	progress: false,
 	// slide transition
 	transition: 'slide',
 	// bring your own layout
-	disableLayout: false,
+	disableLayout: true,
 	// display mode used to show slides
 	display: 'block',
 	// center slides on the screen
