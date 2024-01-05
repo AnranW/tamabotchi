@@ -19,7 +19,7 @@
 				</tr>
 				<tr style="border-style:hidden;">
 					<td>  </td>
-					<td colspan="2"> <img class="h-[40vh]" src="/robot.svg" alt="central image of robot"> </td>
+					<td colspan="2"> <img class="h-[40vh]" src="https://www.svgrepo.com/show/2301/robot.svg" alt="central image of robot"> </td>
 					<td>  </td>
 				</tr>
 				<tr style="border-style:hidden;">
@@ -51,11 +51,11 @@
 	<Slide animate id="diagnose">
 		<Layout> 
 			<br>
-			<img class="h-[40vh] float-left" src="/diagnose.svg" alt="diagnosing">
+			<img class="h-[40vh] float-left" src="https://www.svgrepo.com/show/503282/diagnostic-alt.svg" alt="diagnosing">
 			<Stack>
 				<Step fadeOut> 
 					<br>
-					<img class="h-[20vh]" src="/dots.gif" alt="diagnosing">			
+					<img class="h-[20vh]" src="https://i.gifer.com/CVyf.gif" alt="diagnosing">			
 				</Step>			
 				<Step fadeIn>
 					<br>
@@ -85,7 +85,7 @@
 				</tr>
 				<tr style="border-style:hidden;">
 					<td>  </td>
-					<td colspan="2"> <img class="h-[40vh]" src="/robot.svg" alt="central image of robot"> </td>
+					<td colspan="2"> <img class="h-[40vh]" src="https://www.svgrepo.com/show/2301/robot.svg" alt="central image of robot"> </td>
 					<td>  </td>
 				</tr>
 				<tr style="border-style:hidden;">
@@ -106,7 +106,7 @@
 				</tr>
 				<tr style="border-style:hidden;">
 					<td>  </td>
-					<td colspan="2"> <img class="h-[40vh]" src="/robot.svg" alt="central image of robot"> </td>
+					<td colspan="2"> <img class="h-[40vh]" src="https://www.svgrepo.com/show/2301/robot.svg" alt="central image of robot"> </td>
 					<td>  </td>
 				</tr>
 				<tr style="border-style:hidden;">
