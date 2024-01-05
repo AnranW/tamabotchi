@@ -103,7 +103,6 @@
         <button type="button" class="relative ml-auto flex-shrink-0 rounded-full bg-gray-800 p-1 text-gray-400 hover:text-white focus:outline-none focus:ring-2 focus:ring-white focus:ring-offset-2 focus:ring-offset-gray-800">
             <span class="absolute-inset-1.5"></span>
             <span class="sr-only">Go to Anran.</span>
-            <a href="#main">
                 <svg class="h-20 w-20" fill="currentColor" viewBox="-50 -50 595.398 595.398">
                 <g>
                     <g>
@@ -119,7 +118,6 @@
                     </g>
                 </g>
                 </svg>
-            </a>
         </button>
         </a>
         <button type="button" class="relative ml-auto flex-shrink-0 rounded-full bg-gray-800 p-1 text-gray-400 hover:text-white focus:outline-none focus:ring-2 focus:ring-white focus:ring-offset-2 focus:ring-offset-gray-800">
