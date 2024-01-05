@@ -1,6 +1,6 @@
 <script>
     function ping() {
-		var snd = new Audio("public/robot.m4a");
+		var snd = new Audio("/robot.m4a");
 		snd.play();
 	}
 </script>

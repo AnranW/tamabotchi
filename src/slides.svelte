@@ -1,11 +1,6 @@
 <script lang="ts">
 	import { Presentation, Slide, Media, Step, Stack } from '@components'
 	import Layout from './layout.svelte';
-
-	function ping() {
-		var snd = new Audio("/robot.m4a");
-		snd.play();
-	}
 </script>
 
 <Presentation>
