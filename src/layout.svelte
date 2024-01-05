@@ -89,11 +89,13 @@
             </svg>
             </a>
         </button>
-</header>
+</header> 
+<br>
 
 <div class="h-[60vh] justify-center items-center bg-green-400" style="display:inline-block; aspect-ratio:4/3; " > 
     <slot /> 
 </div>
+<br>
 
 <footer style="display:inline-block">
     <div data-id="part-1" class="text-center h-[20vh] place-content-center flex items-center rounded bg-orange-200" style="aspect-ratio: 4;">
