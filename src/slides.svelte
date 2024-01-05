@@ -35,7 +35,7 @@
 	<Slide animate id="charge">
 		<Layout>
 			<a href="#main">
-				<img class="h-full inline" src="/charge.gif" alt="charging">
+				<img class="h-full inline" src="https://i.pinimg.com/originals/db/49/58/db4958c8fab9519e8e8e3562b35c6757.gif" alt="charging">
 			</a>
 		</Layout>
 	</Slide>
@@ -43,7 +43,7 @@
 	<Slide animate id="play">
 		<Layout> 
 			<a href="#main">
-				<img class="h-[full] inline" src="/play.gif" alt="playing">
+				<img class="h-[full] inline" src="https://media1.giphy.com/media/jUJtNKKVTdIeD0XreN/giphy.gif?cid=6c09b952vj867wh6lh9pkhay7tgurq6tmi07zyhraij65eoi&ep=v1_stickers_related&rid=giphy.gif&ct=s" alt="playing">
 			</a>
 		</Layout>
 	</Slide>
