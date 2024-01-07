@@ -116,7 +116,7 @@
 		<Layout>
 			<table class="inline">
 				<tr style="border-style:hidden;">
-					<td class="rounded bg-orange-300" style="font-size:5vh;"> lvl 5 </td>
+					<td class="rounded bg-yellow-300" style="font-size:5vh;"> lvl 5 </td>
 					<td colspan="2">  </td>
 					<td class="rounded bg-orange-300" style="font-size:5vh;"> hp 21 </td>
 				</tr>
@@ -128,7 +128,7 @@
 				<tr style="border-style:hidden;">
 					<td colspan="4" style="text-align:center; font-size:5vh;">  
 						Friendship with: 
-						<a href="https://animotion.pages.dev" target="_blank" class="rounded bg-orange-300">Animotion 
+						<a href="https://animotion.pages.dev" target="_blank" class="rounded bg-yellow-300">Animotion 
 					</td>
 				</tr>
 			</table>
