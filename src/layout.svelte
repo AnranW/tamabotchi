@@ -1,7 +1,10 @@
 <script>
     function ping() {
-		var snd = new Audio("/robot.m4a");
-		snd.play();
+		var snd = new Audio();
+        // snd.src = ("https://github.com/AnranW/tamabotchi/blob/main/public/robot.mp3");
+		// snd.type = ("audio/mp3");
+        snd.src="/robot.mp3";
+        snd.play();
 	}
 </script>
 <header style="display:inline-block">
