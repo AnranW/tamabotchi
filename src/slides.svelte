@@ -36,7 +36,7 @@
 	<Slide animate id="play">
 		<Layout> 
 			<a href="#main">
-				<img class="h-[full] inline" src="https://media1.giphy.com/media/jUJtNKKVTdIeD0XreN/giphy.gif?cid=6c09b952vj867wh6lh9pkhay7tgurq6tmi07zyhraij65eoi&ep=v1_stickers_related&rid=giphy.gif&ct=s" alt="playing">
+				<img class="inline" style="height:60vh; padding-bottom:3vh; padding-bottom:2vh;" src="https://media1.giphy.com/media/jUJtNKKVTdIeD0XreN/giphy.gif?cid=6c09b952vj867wh6lh9pkhay7tgurq6tmi07zyhraij65eoi&ep=v1_stickers_related&rid=giphy.gif&ct=s" alt="playing">
 			</a>
 		</Layout>
 	</Slide>
