@@ -3,8 +3,7 @@
     function ping() {
 		var snd = new Audio();
         // snd.src = ("https://github.com/AnranW/tamabotchi/blob/main/public/robot.mp3");
-		// snd.type = ("audio/mp3");
-        snd.src="/tamabotchi/robot.mp3";
+        snd.src="/tamabotchi/robot.m4a";
         snd.play();
 	}
 </script>
