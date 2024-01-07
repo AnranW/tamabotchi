@@ -6,19 +6,17 @@
 <Presentation>
 	<Slide animate id="main">
 		<Layout>
+			<br>
 			<table class="inline">
 				<tr style="border-style:hidden;">
-					<td colspan="4">  </td>
-					<td class="rounded bg-orange-300" style="font-size:5vh;text-align: center;"> hp 21 </td>
-				<tr style="border-style:hidden;">
-					<td colspan="1">  </td>
-					<td colspan="3"> <img class="h-[40vh]" src="https://www.svgrepo.com/show/2301/robot.svg" alt="central image of robot"> </td>
+					<td colspan="4"> <img class="h-[40vh]" src="https://www.svgrepo.com/show/2301/robot.svg" alt="central image of robot"> </td>
 				</tr>
-				<tr style="border-style:hidden;">
-					<td colspan="4" style="text-align:center; font-size:5vh;">  
+				<tr style="border-style:hidden;font-size:3vh;">
+					<td rowspan="2" class="rounded bg-orange-300" style="text-align: center;"> hp 21 </td>
+					<td colspan="2" style="text-align:center; ">  
 						Friendship with: <span class="rounded bg-red-300">Anran </span>
 					</td>
-					<td class="rounded bg-red-300" style="font-size:5vh;text-align: center;"> lvl. 7 </td>
+					<td rowspan="2" class="rounded bg-red-300" style="text-align: center;"> lvl 7 </td>
 				</tr>
 			</table>
 		</Layout>

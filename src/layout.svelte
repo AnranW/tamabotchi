@@ -8,7 +8,7 @@
 	}
 </script>
 <header style="display:inline-block">
-    <div data-id="part-1" class="text-center h-[20vh] place-content-center flex items-center rounded bg-orange-200" style="aspect-ratio: 4;">
+    <div data-id="part-1" class="text-center h-[15vh] place-content-center flex items-center rounded bg-orange-200" style="aspect-ratio: 3;">
         <!-- charge button  -->
         <button type="button" class="relative ml-auto flex-shrink-0 rounded-full bg-gray-800 p-1 text-gray-400 hover:text-white focus:outline-none focus:ring-2 focus:ring-white focus:ring-offset-2 focus:ring-offset-gray-800">
             <span class="absolute -inset-1.5"></span>
@@ -95,13 +95,13 @@
 </header> 
 <br>
 
-<div class="h-[60vh] justify-center items-center bg-green-400" style="display:inline-block; aspect-ratio:4/3; " > 
+<div class="h-[60vh] justify-center items-center bg-green-400" style="display:inline-block; aspect-ratio:3/4; " > 
     <slot /> 
 </div>
 <br>
 
 <footer style="display:inline-block">
-    <div data-id="part-1" class="text-center h-[20vh] place-content-center flex items-center rounded bg-orange-200" style="aspect-ratio: 4;">
+    <div data-id="part-1" class="text-center h-[15vh] place-content-center flex items-center rounded bg-orange-200" style="aspect-ratio: 3;">
         <button type="button" class="relative ml-auto flex-shrink-0 rounded-full bg-gray-800 p-1 text-gray-400 hover:text-white focus:outline-none focus:ring-2 focus:ring-white focus:ring-offset-2 focus:ring-offset-gray-800">
             <span class="absolute -inset-1.5"></span>
             <span class="sr-only">Go to Anran.</span>
