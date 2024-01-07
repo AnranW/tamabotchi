@@ -112,4 +112,26 @@
 			</table>
 		</Layout>
 	</Slide>
+	<Slide animate id="animotion">
+		<Layout>
+			<table class="inline">
+				<tr style="border-style:hidden;">
+					<td class="rounded bg-orange-300" style="font-size:5vh;"> lvl 5 </td>
+					<td colspan="2">  </td>
+					<td class="rounded bg-orange-300" style="font-size:5vh;"> hp 21 </td>
+				</tr>
+				<tr style="border-style:hidden;">
+					<td>  </td>
+					<td colspan="2"> <img class="h-[40vh]" src="https://www.svgrepo.com/show/2301/robot.svg" alt="central image of robot"> </td>
+					<td>  </td>
+				</tr>
+				<tr style="border-style:hidden;">
+					<td colspan="4" style="text-align:center; font-size:5vh;">  
+						Friendship with: 
+						<a href="https://animotion.pages.dev" target="_blank" class="rounded bg-orange-300">Animotion 
+					</td>
+				</tr>
+			</table>
+		</Layout>
+	</Slide>
 </Presentation>

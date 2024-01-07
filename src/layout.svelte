@@ -156,7 +156,9 @@
         <button type="button" class="relative ml-auto flex-shrink-0 rounded-full bg-gray-800 p-1 text-gray-400 hover:text-white focus:outline-none focus:ring-2 focus:ring-white focus:ring-offset-2 focus:ring-offset-gray-800">
             <span class="absolute-inset-1.5"></span>
             <span class="sr-only"> Go to Animotion. </span>
-                <svg class="h-20 w-20" fill="currentColor" viewBox="0 0 489.059 489.059">
+            <a href="#animotion">
+                
+            <svg class="h-20 w-20" fill="currentColor" viewBox="0 0 489.059 489.059">
                <path d="M481.211,443.368L224.809,186.946l55.817-17.364c3.88-1.196,6.736-4.509,7.38-8.528c0.642-4.018-1.058-8.051-4.383-10.385
                    l-56.798-40.165c-9.814-6.913-15.56-18.2-15.417-30.172l0.916-69.519c0.051-4.06-2.23-7.796-5.837-9.647
                    c-3.608-1.844-7.976-1.483-11.225,0.962l-55.73,41.584c-9.588,7.163-22.117,9.136-33.439,5.294L40.246,26.678
@@ -166,6 +168,8 @@
                    l17.375-55.805l256.389,256.422c5.243,5.221,12.094,7.836,18.908,7.836c6.885,0,13.73-2.615,18.943-7.836
                    C491.671,470.772,491.671,453.826,481.211,443.368z"/>
                </svg>
+            </a>
+
         </button>
 
         <button type="button" class="relative ml-auto flex-shrink-0 rounded-full bg-gray-800 p-1 text-gray-400 hover:text-white focus:outline-none focus:ring-2 focus:ring-white focus:ring-offset-2 focus:ring-offset-gray-800">
