@@ -95,7 +95,7 @@
 </header> 
 <br>
 
-<div class="h-[60vh] justify-center items-center bg-green-400" style="display:inline-block; aspect-ratio:3/4; " > 
+<div class="h-[65vh] w-[45vh] justify-center items-center bg-green-400" style="display:inline-block;" > 
     <slot /> 
 </div>
 <br>

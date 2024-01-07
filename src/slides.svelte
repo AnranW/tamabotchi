@@ -6,17 +6,23 @@
 <Presentation>
 	<Slide animate id="main">
 		<Layout>
-			<br>
-			<table class="inline">
+			<table class="inline" >
+				<tr style="border-style:hidden;"> <td> </td></tr>
 				<tr style="border-style:hidden;">
-					<td colspan="4"> <img class="h-[40vh]" src="https://www.svgrepo.com/show/2301/robot.svg" alt="central image of robot"> </td>
+					<td  class="rounded bg-orange-300" style="text-align: center;font-size:4vh;"> hp 21 </td>
 				</tr>
-				<tr style="border-style:hidden;font-size:3vh;">
-					<td rowspan="2" class="rounded bg-orange-300" style="text-align: center;"> hp 21 </td>
-					<td colspan="2" style="text-align:center; ">  
-						Friendship with: <span class="rounded bg-red-300">Anran </span>
+				<tr style="border-style:hidden;">
+					<td colspan="5"> <img class="h-[40vh]" src="https://www.svgrepo.com/show/2301/robot.svg" alt="central image of robot"> </td>
+				</tr>
+				<tr> <td> </td></tr>
+				<tr style="border-style:hidden;font-size:2.8vh;">
+					<td class="rounded bg-red-300" style="text-align: center;font-size: 4vh;"> lvl 7 </td>
+					<td colspan="3" style="text-align:center; ">  
+						Friendship with: 
 					</td>
-					<td rowspan="2" class="rounded bg-red-300" style="text-align: center;"> lvl 7 </td>
+					<td>
+						<span class="rounded bg-red-300" style="text-align: center;font-size: 4vh;">Anran </span>
+					</td>						
 				</tr>
 			</table>
 		</Layout>
@@ -68,57 +74,69 @@
 
 	<Slide animate id="ecem">
 		<Layout>
-			<table class="inline">
+			<table class="inline" >
+				<tr style="border-style:hidden;"> <td> </td></tr>
 				<tr style="border-style:hidden;">
-					<td colspan="4">  </td>
-					<td class="rounded bg-orange-300" style="font-size:5vh;text-align: center;"> hp 21 </td>
-				<tr style="border-style:hidden;">
-					<td colspan="1">  </td>
-					<td colspan="3"> <img class="h-[40vh]" src="https://www.svgrepo.com/show/2301/robot.svg" alt="central image of robot"> </td>
+					<td  class="rounded bg-orange-300" style="text-align: center;font-size:4vh;"> hp 21 </td>
 				</tr>
 				<tr style="border-style:hidden;">
-					<td colspan="4" style="text-align:center; font-size:5vh;">  
-						Friendship with: <span class="rounded bg-blue-300">Ecem </span>
+					<td colspan="5"> <img class="h-[40vh]" src="https://www.svgrepo.com/show/2301/robot.svg" alt="central image of robot"> </td>
+				</tr>
+				<tr> <td> </td></tr>
+				<tr style="border-style:hidden;font-size:2.8vh;">
+					<td class="rounded bg-blue-300" style="text-align: center;font-size: 4vh;"> lvl 8 </td>
+					<td colspan="3" style="text-align:center; ">  
+						Friendship with: 
 					</td>
-					<td class="rounded bg-blue-300" style="font-size:5vh;text-align: center;"> lvl. 8 </td>
+					<td>
+						<span class="rounded bg-blue-300" style="text-align: center;font-size: 4vh;">Ecem </span>
+					</td>						
 				</tr>
 			</table>
 		</Layout>
 	</Slide>
 	<Slide animate id="ales">
 		<Layout>
-			<table class="inline">
+			<table class="inline" >
+				<tr style="border-style:hidden;"> <td> </td></tr>
 				<tr style="border-style:hidden;">
-					<td colspan="4">  </td>
-					<td class="rounded bg-orange-300" style="font-size:5vh;text-align: center;"> hp 21 </td>
-				<tr style="border-style:hidden;">
-					<td colspan="1">  </td>
-					<td colspan="3"> <img class="h-[40vh]" src="https://www.svgrepo.com/show/2301/robot.svg" alt="central image of robot"> </td>
+					<td  class="rounded bg-orange-300" style="text-align: center;font-size:4vh;"> hp 21 </td>
 				</tr>
 				<tr style="border-style:hidden;">
-					<td colspan="4" style="text-align:center; font-size:5vh;">  
-						Friendship with: <span class="rounded bg-purple-300">Alessia </span>
+					<td colspan="5"> <img class="h-[40vh]" src="https://www.svgrepo.com/show/2301/robot.svg" alt="central image of robot"> </td>
+				</tr>
+				<tr> <td> </td></tr>
+				<tr style="border-style:hidden;font-size:2.8vh;">
+					<td class="rounded bg-purple-300" style="text-align: center;font-size: 4vh;"> lvl 6 </td>
+					<td colspan="3" style="text-align:center; ">  
+						Friendship with: 
 					</td>
-					<td class="rounded bg-purple-300" style="font-size:5vh;text-align: center;"> lvl. 6 </td>
+					<td>
+						<span class="rounded bg-purple-300" style="text-align: center;font-size: 3.3vh;">Alessia </span>
+					</td>						
 				</tr>
 			</table>
 		</Layout>
 	</Slide>
 	<Slide animate id="animotion">
 		<Layout>
-			<table class="inline">
+			<table class="inline" >
+				<tr style="border-style:hidden;"> <td> </td></tr>
 				<tr style="border-style:hidden;">
-					<td colspan="4">  </td>
-					<td class="rounded bg-orange-300" style="font-size:5vh;text-align: center;"> hp 21 </td>
-				<tr style="border-style:hidden;">
-					<td colspan="1">  </td>
-					<td colspan="3"> <img class="h-[40vh]" src="https://www.svgrepo.com/show/2301/robot.svg" alt="central image of robot"> </td>
+					<td  class="rounded bg-orange-300" style="text-align: center;font-size:4vh;"> hp 21 </td>
 				</tr>
 				<tr style="border-style:hidden;">
-					<td colspan="4" style="text-align:center; font-size:5vh;">  
-						Friendship with: <span class="rounded bg-yellow-300" style="font-size:4vh;">Animotion </span>
+					<td colspan="5"> <img class="h-[40vh]" src="https://www.svgrepo.com/show/2301/robot.svg" alt="central image of robot"> </td>
+				</tr>
+				<tr> <td> </td></tr>
+				<tr style="border-style:hidden;font-size:2.4vh;">
+					<td class="rounded bg-yellow-300" style="text-align: center;font-size: 4vh;"> lvl 4 </td>
+					<td colspan="3" style="text-align:center; ">  
+						Friendship with: 
 					</td>
-					<td class="rounded bg-yellow-300" style="font-size:5vh;text-align: center;"> lvl. 4 </td>
+					<td>
+						<span class="rounded bg-yellow-300" style="text-align: center;font-size: 3vh;">Animotion </span>
+					</td>						
 				</tr>
 			</table>
 		</Layout>
