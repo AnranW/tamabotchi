@@ -8,19 +8,17 @@
 		<Layout>
 			<table class="inline">
 				<tr style="border-style:hidden;">
-					<td class="rounded bg-orange-300" style="font-size:5vh;"> lvl 5 </td>
-					<td colspan="2">  </td>
-					<td class="rounded bg-orange-300" style="font-size:5vh;"> hp 21 </td>
-				</tr>
+					<td colspan="4">  </td>
+					<td class="rounded bg-orange-300" style="font-size:5vh;text-align: center;"> hp 21 </td>
 				<tr style="border-style:hidden;">
-					<td>  </td>
-					<td colspan="2"> <img class="h-[40vh]" src="https://www.svgrepo.com/show/2301/robot.svg" alt="central image of robot"> </td>
-					<td>  </td>
+					<td colspan="1">  </td>
+					<td colspan="3"> <img class="h-[40vh]" src="https://www.svgrepo.com/show/2301/robot.svg" alt="central image of robot"> </td>
 				</tr>
 				<tr style="border-style:hidden;">
 					<td colspan="4" style="text-align:center; font-size:5vh;">  
-						Friendship with: <span class="rounded bg-orange-300">Anran </span>
+						Friendship with: <span class="rounded bg-red-300">Anran </span>
 					</td>
+					<td class="rounded bg-red-300" style="font-size:5vh;text-align: center;"> lvl. 7 </td>
 				</tr>
 			</table>
 		</Layout>
@@ -74,19 +72,17 @@
 		<Layout>
 			<table class="inline">
 				<tr style="border-style:hidden;">
-					<td class="rounded bg-blue-300" style="font-size:5vh;"> lvl 8 </td>
-					<td colspan="2">  </td>
-					<td class="rounded bg-orange-300" style="font-size:5vh;"> hp 21 </td>
-				</tr>
+					<td colspan="4">  </td>
+					<td class="rounded bg-orange-300" style="font-size:5vh;text-align: center;"> hp 21 </td>
 				<tr style="border-style:hidden;">
-					<td>  </td>
-					<td colspan="2"> <img class="h-[40vh]" src="https://www.svgrepo.com/show/2301/robot.svg" alt="central image of robot"> </td>
-					<td>  </td>
+					<td colspan="1">  </td>
+					<td colspan="3"> <img class="h-[40vh]" src="https://www.svgrepo.com/show/2301/robot.svg" alt="central image of robot"> </td>
 				</tr>
 				<tr style="border-style:hidden;">
 					<td colspan="4" style="text-align:center; font-size:5vh;">  
 						Friendship with: <span class="rounded bg-blue-300">Ecem </span>
 					</td>
+					<td class="rounded bg-blue-300" style="font-size:5vh;text-align: center;"> lvl. 8 </td>
 				</tr>
 			</table>
 		</Layout>
@@ -95,19 +91,17 @@
 		<Layout>
 			<table class="inline">
 				<tr style="border-style:hidden;">
-					<td class="rounded bg-purple-300" style="font-size:5vh;"> lvl 7 </td>
-					<td colspan="2">  </td>
-					<td class="rounded bg-orange-300" style="font-size:5vh;"> hp 21 </td>
-				</tr>
+					<td colspan="4">  </td>
+					<td class="rounded bg-orange-300" style="font-size:5vh;text-align: center;"> hp 21 </td>
 				<tr style="border-style:hidden;">
-					<td>  </td>
-					<td colspan="2"> <img class="h-[40vh]" src="https://www.svgrepo.com/show/2301/robot.svg" alt="central image of robot"> </td>
-					<td>  </td>
+					<td colspan="1">  </td>
+					<td colspan="3"> <img class="h-[40vh]" src="https://www.svgrepo.com/show/2301/robot.svg" alt="central image of robot"> </td>
 				</tr>
 				<tr style="border-style:hidden;">
 					<td colspan="4" style="text-align:center; font-size:5vh;">  
 						Friendship with: <span class="rounded bg-purple-300">Alessia </span>
 					</td>
+					<td class="rounded bg-purple-300" style="font-size:5vh;text-align: center;"> lvl. 6 </td>
 				</tr>
 			</table>
 		</Layout>
@@ -116,20 +110,17 @@
 		<Layout>
 			<table class="inline">
 				<tr style="border-style:hidden;">
-					<td class="rounded bg-yellow-300" style="font-size:5vh;"> lvl 4 </td>
-					<td colspan="2">  </td>
-					<td class="rounded bg-orange-300" style="font-size:5vh;"> hp 21 </td>
-				</tr>
+					<td colspan="4">  </td>
+					<td class="rounded bg-orange-300" style="font-size:5vh;text-align: center;"> hp 21 </td>
 				<tr style="border-style:hidden;">
-					<td>  </td>
-					<td colspan="2"> <img class="h-[40vh]" src="https://www.svgrepo.com/show/2301/robot.svg" alt="central image of robot"> </td>
-					<td>  </td>
+					<td colspan="1">  </td>
+					<td colspan="3"> <img class="h-[40vh]" src="https://www.svgrepo.com/show/2301/robot.svg" alt="central image of robot"> </td>
 				</tr>
 				<tr style="border-style:hidden;">
 					<td colspan="4" style="text-align:center; font-size:5vh;">  
-						Friendship with: 
-						<a href="https://animotion.pages.dev" target="_blank" class="rounded bg-yellow-300">Animotion 
+						Friendship with: <span class="rounded bg-yellow-300" style="font-size:4vh;">Animotion </span>
 					</td>
+					<td class="rounded bg-yellow-300" style="font-size:5vh;text-align: center;"> lvl. 4 </td>
 				</tr>
 			</table>
 		</Layout>
